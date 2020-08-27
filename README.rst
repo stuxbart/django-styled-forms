@@ -4,8 +4,6 @@ Styled Forms
 
 Styled Forms is Django app which provide easy way to add styling to forms.
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
